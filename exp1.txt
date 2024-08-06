@@ -1,7 +1,7 @@
-<<<<<<< dev1
-Hope you are good 
 
-Here is Dev1 code
-=======
 ejy@S839039S
->>>>>>> main
+Hi How are you doing 
+
+See you soon 
+dev2  Here
+
